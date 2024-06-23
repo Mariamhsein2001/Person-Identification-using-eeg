@@ -27,7 +27,7 @@ The notebook is organized as follows:
    - Extracting relevant features from the EEG signals for person identification.
 
 4. **Model Training and Evaluation**
-   - Training machine learning models on the extracted features.
+   - Training EEGNET model  on the extracted features.
    - Evaluating the performance of the models.
 
 5. **Results**
@@ -41,3 +41,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - The dataset used in this project is provided by the BCI Competition IV.
 - Special thanks to the creators and contributors of the original dataset.
+- The model used is EEGNET  : https://github.com/aliasvishnu/EEGNet
